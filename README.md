@@ -17,7 +17,8 @@ Our group is thinking about making an AI for the variantion version of Connect4.
 
 ### Explanation
 The following graph shows how the rule affects the game. At the first board, if the red player chooses not to place a red coin at the place where the yellow star stays for the original version of connect4, the player loses. However, at the current version of the game, the red player could choose to rotate the board clockwise for 90 degrees, which makes the red player win immediately.
-<img src="https://github.com/yixihu/2020_spring_projects/tree/master/UIUC-590PZ-Final/proposal.png" width="400px" />
+
+<img src="https://github.com/yixihu/2020_spring_projects/blob/master/Preview.jpeg" width="400px" />
 
 ### Team Members:
 Yixing Hu, Ketian Mao
